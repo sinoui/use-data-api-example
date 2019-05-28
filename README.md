@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# @sinoui/use-data-api例子
+
+[@sinoui/use-data-api](https://github.com/sinoui/use-data-api)是一个加载数据的React Hook。此示例演示使用[@sinoui/use-data-api](https://github.com/sinoui/use-data-api)通过[Hacker News API](https://hn.algolia.com/api)获取技术文章。
 
 ## Available Scripts
 
