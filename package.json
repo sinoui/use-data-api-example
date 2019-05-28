@@ -2,6 +2,7 @@
   "name": "use-data-api-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sinoui.github.io/use-data-api-example",
   "dependencies": {
     "@sinoui/use-data-api": "^0.1.0",
     "react": "^16.8.6",
