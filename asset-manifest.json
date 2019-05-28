@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.682ca21c.chunk.css",
-    "main.js": "/static/js/main.400f447b.chunk.js",
-    "main.js.map": "/static/js/main.400f447b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.9c558866.chunk.js": "/static/js/2.9c558866.chunk.js",
-    "static/js/2.9c558866.chunk.js.map": "/static/js/2.9c558866.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1b004bfb30a2447ad1c05fa098d450ae.js": "/precache-manifest.1b004bfb30a2447ad1c05fa098d450ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.682ca21c.chunk.css.map": "/static/css/main.682ca21c.chunk.css.map"
+    "main.css": "/use-data-api-example/static/css/main.682ca21c.chunk.css",
+    "main.js": "/use-data-api-example/static/js/main.400f447b.chunk.js",
+    "main.js.map": "/use-data-api-example/static/js/main.400f447b.chunk.js.map",
+    "runtime~main.js": "/use-data-api-example/static/js/runtime~main.48efefc3.js",
+    "runtime~main.js.map": "/use-data-api-example/static/js/runtime~main.48efefc3.js.map",
+    "static/js/2.9c558866.chunk.js": "/use-data-api-example/static/js/2.9c558866.chunk.js",
+    "static/js/2.9c558866.chunk.js.map": "/use-data-api-example/static/js/2.9c558866.chunk.js.map",
+    "index.html": "/use-data-api-example/index.html",
+    "precache-manifest.02eab2a1c3e2ea0d5ef9452947c2a7e9.js": "/use-data-api-example/precache-manifest.02eab2a1c3e2ea0d5ef9452947c2a7e9.js",
+    "service-worker.js": "/use-data-api-example/service-worker.js",
+    "static/css/main.682ca21c.chunk.css.map": "/use-data-api-example/static/css/main.682ca21c.chunk.css.map"
   }
 }
